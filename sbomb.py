@@ -9,7 +9,7 @@ headers = CaseInsensitiveDict()
 headers["Content-Type"] = "application/x-www-form-urlencoded"
 
 
-data = "phone=+"number
+data = "phone="+number
 
 
 for j in range(amount):
